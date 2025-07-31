@@ -1,0 +1,43 @@
+# Archivos de Obsidian
+.obsidian/
+.trash/
+
+# Archivos temporales y de sistema
+*.tmp
+*.swp
+*.lock
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales y dependencias
+venv/
+.env
+*.venv
+node_modules/
+
+# Archivos de configuración local
+*.local
+config.ini
+
+# Archivos de IDE/Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de Burp Suite
+*.burp
+*.state
+
+# Logs y datos de sesión
+*.log
+*.session
+
+# Archivos binarios y ejecutables
+*.exe
+*.bin
+*.pyc
+__pycache__/
+
+# Backup files
+*.bak
+*.old
