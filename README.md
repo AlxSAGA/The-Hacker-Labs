@@ -13,9 +13,9 @@ Repositorio con walkthroughs detallados de máquinas The Hackers Labs para prác
 - 📌 Notas de aprendizaje
 ### Maquinas The Hackers Labs:
 
-| Dificultado: Facil                             |
-| ---------------------------------------------- |
-| [01 NodeCeption](./01-facil/01-NodeCeption.md) |
+| Dificultado: Facil                                          |
+| ----------------------------------------------------------- |
+| [01 NodeCeption](01-HackersLabs/01-facil/01-NodeCeption.md) |
 
 ## 📜 Aviso Legal  
 Este repositorio contiene técnicas y procedimientos de seguridad informática que deben usarse **exclusivamente en entornos controlados y con autorización explícita**. El autor no se hace responsable del uso incorrecto o ilegal de esta información.
