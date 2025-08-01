@@ -397,8 +397,7 @@ su JaulaCon2025 # ( Brutales )
 ###### Usuario `[ JaulaCon2025 ]`:
 Flag usuario:
 ```bash
- cat user.txt 
-368409a919088e8707d0617365156184  -
+user.txt
 ```
 
 LIsanto los permios para este usuario tenemos lo siguiente:
@@ -426,8 +425,7 @@ Forzamos una bash
 
 Flag de root
 ```bash
-root@JaulaCon2025:/home/JaulaCon2025# cat /root/root.txt 
-097fac9db83a1806f3355cf95227992a
+root@JaulaCon2025:/home/JaulaCon2025# /root/root.txt 
 ```
 
 ```bash
