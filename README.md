@@ -19,6 +19,7 @@ Repositorio con walkthroughs detallados de máquinas The Hackers Labs para prác
 | [02 Jaulacon2025](01-HackersLabs/01-facil/02-Jaulacon2025.md)         |
 | [03 BocataCalamares](01-HackersLabs/01-facil/03-BocataCalamares.md)   |
 | [04 TheFirstAvengers](01-HackersLabs/01-facil/04-TheFirstAvengers.md) |
+| [05 Templo](01-HackersLabs/01-facil/05-Templo.md)                     |
 
 ## 📜 Aviso Legal  
 Este repositorio contiene técnicas y procedimientos de seguridad informática que deben usarse **exclusivamente en entornos controlados y con autorización explícita**. El autor no se hace responsable del uso incorrecto o ilegal de esta información.
