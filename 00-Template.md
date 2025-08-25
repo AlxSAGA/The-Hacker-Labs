@@ -65,12 +65,6 @@ Realizamos deteccion de las tecnologias empleadas por la web
 ```bash
 whatweb http://[IP_TARGET]
 ```
-
-Lanzamos un script de **Nmap** para reconocimiento de rutas
-```bash
-nmap --script http-enum -p [PORT] [IP_TARGET]
-```
-
 ### Descubrimiento de Archivos y Rutas
 ```bash
 gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] -x [Extensiones]
@@ -147,15 +141,3 @@ find / -perm -4000 2>/dev/null
 whoami
 root
 ```
-
----
-
-## Lecciones Aprendidas
-1. [Lección 1]
-2. [Lección 2]
-3. [Lección 3]
-
-## Recomendaciones de Seguridad
-- [Recomendación 1]
-- [Recomendación 2]
-- [Recomendación 3]
