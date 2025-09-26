@@ -13,18 +13,18 @@ Repositorio con walkthroughs detallados de máquinas The Hackers Labs para prác
 - 📌 Notas de aprendizaje
 ### Maquinas The Hackers Labs:
 
-| Dificultado: Facil                                                    | Dificultad: Medio                                               |
-| --------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [01 NodeCeption](01-HackersLabs/01-facil/01-NodeCeption.md)           | [01 PaQueAigaLujo](01-HackersLabs/02-medio/01-PaQueAigaLujo.md) |
-| [02 Jaulacon2025](01-HackersLabs/01-facil/02-Jaulacon2025.md)         | [02 HellRoot](01-HackersLabs/02-medio/02-HellRoot.md)           |
-| [03 BocataCalamares](01-HackersLabs/01-facil/03-BocataCalamares.md)   |                                                                 |
-| [04 TheFirstAvengers](01-HackersLabs/01-facil/04-TheFirstAvengers.md) |                                                                 |
-| [05 Templo](01-HackersLabs/01-facil/05-Templo.md)                     |                                                                 |
-| [05 ZapasGuapas](01-HackersLabs/01-facil/05-Zapas_Guapas.md)          |                                                                 |
-| [06 Mortadela](01-HackersLabs/01-facil/06-Mortadela.md)               |                                                                 |
-| [07 Fruits](01-HackersLabs/01-facil/07-Fruits.md)                     |                                                                 |
-| [08 Cocido_Andaluz](01-HackersLabs/01-facil/08-Cocido_Andaluz.md)     |                                                                 |
-| [09 Uploader](01-HackersLabs/01-facil/09-Uploader.md)                 |                                                                 |
+| Dificultado: Facil                                                    | Dificultad: Medio                                                   |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [01 NodeCeption](01-HackersLabs/01-facil/01-NodeCeption.md)           | [01 PaQueAigaLujo](01-HackersLabs/02-medio/01-PaQueAigaLujo.md)     |
+| [02 Jaulacon2025](01-HackersLabs/01-facil/02-Jaulacon2025.md)         | [02 HellRoot](01-HackersLabs/02-medio/02-HellRoot.md)               |
+| [03 BocataCalamares](01-HackersLabs/01-facil/03-BocataCalamares.md)   | [03 BackTotheFuture](01-HackersLabs/02-medio/03-BackToTheFuture.md) |
+| [04 TheFirstAvengers](01-HackersLabs/01-facil/04-TheFirstAvengers.md) |                                                                     |
+| [05 Templo](01-HackersLabs/01-facil/05-Templo.md)                     | [05 Tortuga](01-HackersLabs/02-medio/05-Tortuga.md)                 |
+| [06 ZapasGuapas](01-HackersLabs/01-facil/05-Zapas_Guapas.md)          | [06 OfuskPingu](01-HackersLabs/02-medio/06-OfuskPingu.md)           |
+| [07 Mortadela](01-HackersLabs/01-facil/06-Mortadela.md)               |                                                                     |
+| [08 Fruits](01-HackersLabs/01-facil/07-Fruits.md)                     |                                                                     |
+| [09 Cocido_Andaluz](01-HackersLabs/01-facil/08-Cocido_Andaluz.md)     |                                                                     |
+| [10 Uploader](01-HackersLabs/01-facil/09-Uploader.md)                 |                                                                     |
 
 ## 📜 Aviso Legal  
 Este repositorio contiene técnicas y procedimientos de seguridad informática que deben usarse **exclusivamente en entornos controlados y con autorización explícita**. El autor no se hace responsable del uso incorrecto o ilegal de esta información.
